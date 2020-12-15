@@ -1,0 +1,17 @@
+{
+  "name": "sn-nord-theme",
+  "version": "1.0.0",
+  "description": "Nord theme for Standard Notes",
+  "scripts": {
+    "prehttp": "zip v1.0.0.zip theme.css ext.json package.json",
+    "http": "http-server -p 8001 --cors"
+  },
+  "sn": {
+    "main": "theme.css"
+  },
+  "author": "Luca Zambarda",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
