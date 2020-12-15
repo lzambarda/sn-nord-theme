@@ -10,3 +10,7 @@ Open "Extensions" in Standard Notes and click "Import Extension". Enter the foll
 ```
 https://listed.to/p/GiMOAmChBO
 ```
+
+## Preview
+
+![Nord Theme for Standard Notes](preview.png)
